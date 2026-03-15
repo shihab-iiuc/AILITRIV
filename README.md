@@ -66,12 +66,3 @@ AILITRIV/
 
 #### Use Case:  
 This tool serves as an invaluable resource for students, academics, and researchers, enabling them to comprehend dense academic papers with minimal effort. By automating literature web searches, document parsing, context-aware Q&A, and visual chart extraction, researchers can synthesize findings faster and focus entirely on innovation and writing.
-
-# Video Tutotrial Link: https://youtu.be/ucK6pZ9THSw
-# LangSmith Tracer
-
-LR ID:7c4112c1-b2fa-44b0-9052-be37885925df
-Link: https://smith.langchain.com/o/e3c87f62-84cf-4978-bfdc-88b1cde523fa/projects/p/7c4112c1-b2fa-44b0-9052-be37885925df?timeModel=%7B%22duration%22%3A%221d%22%7D
-OpenAI(OSS 120B): https://smith.langchain.com/public/4533446c-6cb2-4949-89fe-840b425281c5/r
-GROQ: https://smith.langchain.com/public/33baa6ef-39dd-4553-b2d3-bcb8086972ac/r
-GoogleGenAI:https://smith.langchain.com/public/04192dbb-bb79-4ac5-82b4-10d786bd6bfc/r
