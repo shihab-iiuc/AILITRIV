@@ -1,4 +1,4 @@
-# AILITRIV: AI-Powered Academic Research Assistant with Web Search, Document RAG, OCR Vision
+# AILITRIV: AI-Powered Academic Research Assistant
 
 ### Project Description:  
 AILITRIV is an advanced tool designed to accelerate literature reviews and academic research by leveraging the latest in AI technologies. The system utilizes **Large Language Models (LLMs)** and **Streamlit** to offer an intuitive, premium dark-themed interface. It integrates **web search grounding**, **Retrieval-Augmented Generation (RAG)** for local documents, and **Optical Character Recognition (OCR)** to create a comprehensive research companion. The tool not only finds online literature but also lets users chat directly with their PDFs and extract insights from complex scientific diagrams, providing a seamless and highly productive research experience.
